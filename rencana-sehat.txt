@@ -1,6 +1,7 @@
 RENCANA SEHAT
 - jalan pagi
   * usahakan setiap 2 hari sekali
+  * jam 5.30
 - minum air putih
 - makan sehat
  * makan sayur
