@@ -1,0 +1,4 @@
+SHALAMA RESOLUSI
+- menguasai OOP Java
+- mempelajari GIT & GITHUB
+- membuat lebih banyak project
