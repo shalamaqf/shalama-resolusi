@@ -1,6 +1,6 @@
 SHALAMA RESOLUSI
-- menguasai OOP Java
 - mempelajari GIT & GITHUB
 - membuat lebih banyak project
 - mempelajari database
 - membuat portofolio
+- mencari tahu minat di programming
